@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sharjeel-src.github.io/sr-enterprises-aurangabad/sitemap.xml
